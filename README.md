@@ -1,3 +1,12 @@
-# CourseProject
+# Stonk
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+```
+Ji Ma jima@illinois.edu (Team Leader)
+Mingqing Teng 	mt52@illinis.edu
+Chien-Wei Chao	cwchao4@illinois.edu
+```
+
+Project Proposal 
+https://docs.google.com/document/d/1wxmEypdi2GsSCXtskPlX0fHi7yWQZAgnANOVQr6qrF8/edit
+
+
