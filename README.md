@@ -1,5 +1,8 @@
 # Stonk
 
+## Presentation / Video
+https://youtu.be/WQ4_VkN3rZ0
+
 ```
 Ji Ma jima@illinois.edu (Team Leader)
 Mingqing Teng 	mt52@illinis.edu
