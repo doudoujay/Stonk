@@ -1,0 +1,13 @@
+wordcloud
+google-api-python-client
+pyarrow
+fastparquet
+gcsfs
+alpha_vantage
+ratelimit
+transformers
+gpustat
+diffusers
+yfinance
+sentence-transformers
+autogluon
